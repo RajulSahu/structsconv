@@ -2,9 +2,10 @@ package rules
 
 import (
 	"fmt"
-	"github.com/rendis/structsconv"
-	"github.com/rendis/structsconv/example/domain"
-	"github.com/rendis/structsconv/example/dto"
+
+	"github.com/RajulSahu/structsconv"
+	"github.com/RajulSahu/structsconv/example/domain"
+	"github.com/RajulSahu/structsconv/example/dto"
 )
 
 // GetUserInfoDtoToUserInfoDomainRules dto.UserInfoDto -> domain.UserInfo

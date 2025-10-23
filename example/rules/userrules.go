@@ -1,9 +1,9 @@
 package rules
 
 import (
-	"github.com/rendis/structsconv"
-	"github.com/rendis/structsconv/example/domain"
-	"github.com/rendis/structsconv/example/dto"
+	"github.com/RajulSahu/structsconv"
+	"github.com/RajulSahu/structsconv/example/domain"
+	"github.com/RajulSahu/structsconv/example/dto"
 )
 
 // GetUserDtoToUserDomainRules dto.UserDto{} -> domain.UserDomain{}

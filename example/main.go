@@ -3,10 +3,11 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/rendis/structsconv"
-	"github.com/rendis/structsconv/example/domain"
-	"github.com/rendis/structsconv/example/dto"
-	"github.com/rendis/structsconv/example/rules"
+
+	"github.com/RajulSahu/structsconv"
+	"github.com/RajulSahu/structsconv/example/domain"
+	"github.com/RajulSahu/structsconv/example/dto"
+	"github.com/RajulSahu/structsconv/example/rules"
 )
 
 func main() {

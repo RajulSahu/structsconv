@@ -2,7 +2,7 @@
 
 [![coverage](https://api.codiga.io/project/32663/score/svg)](https://app.codiga.io/public/project/32663/structsconv/dashboard)
 [![quality](https://api.codiga.io/project/32663/status/svg)](https://app.codiga.io/public/project/32663/structsconv/dashboard)
-[![GoDoc](https://pkg.go.dev/badge/rendis/structsconv?status.svg)](https://pkg.go.dev/github.com/rendis/structsconv?tab=doc)
+[![GoDoc](https://pkg.go.dev/badge/rendis/structsconv?status.svg)](https://pkg.go.dev/github.com/RajulSahu/structsconv?tab=doc)
 ---
 
 The **structsconv** package makes it easy to convert between structs of different types. This development is inspired by
@@ -12,7 +12,7 @@ the java [mapstruct](https://mapstruct.org/) library.
 The main purpose of this library is that, within a `hexagonal architecture`, the conversion can be done without 
 the need to _dirty_ the domain layer with `tags`.
 
-For more information on how to use, see the [examples](https://github.com/rendis/structsconv/tree/master/example).
+For more information on how to use, see the [examples](https://github.com/RajulSahu/structsconv/tree/master/example).
 
 ## Release Compatibility
 
@@ -24,13 +24,13 @@ For more information on how to use, see the [examples](https://github.com/rendis
 1. Install the package:
 
 ```bash
-go get -u github.com/rendis/structsconv
+go get -u github.com/RajulSahu/structsconv
 ```
 
 2. Import the package:
 
 ```go
-import "github.com/rendis/structsconv"
+import "github.com/RajulSahu/structsconv"
 ```
 
 ## Quick start
